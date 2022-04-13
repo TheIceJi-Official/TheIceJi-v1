@@ -1,0 +1,29 @@
+{
+  "name": "theiceji-v2",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@emotion/core": "^10.0.28",
+    "@emotion/styled": "^10.0.27",
+    "dotenv": "^8.2.0",
+    "emotion": "^10.0.27",
+    "framer-motion": "^2.3.0",
+    "graphql-request": "^2.0.0",
+    "gsap": "^3.4.1",
+    "next": "9.4.4",
+    "next-seo": "^4.7.1",
+    "nprogress": "^0.2.0",
+    "react": "16.13.1",
+    "react-dom": "16.13.1",
+    "react-parallax-tilt": "^1.4.58",
+    "react-scroll-parallax": "^2.3.4"
+  },
+  "devDependencies": {
+    "autoprefixer": "^9.8.4"
+  }
+}
